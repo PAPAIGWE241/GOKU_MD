@@ -2,9 +2,15 @@
 
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029Vb2VplFFCCoQsZKtVV24">
-    <img alt="wasi" height="300" src="https://raw.githubusercontent.com/DADDY-IGWE/GOKU_MD/refs/heads/main/B3E6E67E-0ECA-4C4E-81B7-48B8F1275281.jpeg">
+    <img alt="goku" height="300" src="https://files.catbox.moe/h1673o.jpg">
     <h1 align="center">⭐G҉O҉K҉U҉ ҉M҉D҉🌟</h1>
   </a>
+
+
+</a>
+<a href="https://github.com/DADDY-IGWE/GOKU_MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DADDY-IGWE/GOKU_MD?label=Watching&style=social"></a>
+</p>
+
 
   1.𝔽𝕠𝕣𝕜 𝕥𝕙𝕖 𝕣𝕖𝕡𝕠
     <br>
