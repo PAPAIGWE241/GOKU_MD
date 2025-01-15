@@ -2,6 +2,6 @@
 
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029Vb2VplFFCCoQsZKtVV24">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/c4221591d27bb38b9b966.jpg">
+    <img alt="wasi" height="300" src="https://raw.githubusercontent.com/DADDY-IGWE/GOKU_MD/refs/heads/main/B3E6E67E-0ECA-4C4E-81B7-48B8F1275281.jpeg">
     <h1 align="center">WASI MD V2</h1>
   </a>
